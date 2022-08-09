@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TestNG">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/SeleniumDrivers/TestNG" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Documents/SeleniumDrivers/TestNG" recursive="false" />
+  </library>
+</component>
